@@ -10,6 +10,3 @@ kv_namespaces = [
 
 [assets]
 directory = "./public"
-[[kv_namespaces]]
-binding = "KV"
-id = "780914a44fb14ee6a3b36f6404c941e0"
